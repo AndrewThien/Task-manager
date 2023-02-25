@@ -1,6 +1,6 @@
 # Task manager
 
-Task manager is a Python program for a small business that can help it to manage tasks assigned to each member of the team. that was made for dealing with inventory management. Managers can use this program to search the product by its code, determine the product with the lowest quantity and restock it, determine the product with the highest quantity, calculate the total value of each stock item.
+Task manager is a Python program for a small business that can help it to manage tasks assigned to each member of the team. Information about tasks and users will be shown and manipulated effectively by using this app.
 
 ## Installation <a name="installation"/>
 
